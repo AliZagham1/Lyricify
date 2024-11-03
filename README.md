@@ -1,5 +1,5 @@
 
-Here’s a more concise version of your README for Lyricify.
+
 
 Lyricify 🎶
 Lyricify is a simple web app to search and view song lyrics by entering an artist and song title. Built with Node.js, Express, EJS, and the Lyrics.ovh API, it’s designed for quick and easy lyrics lookup.
