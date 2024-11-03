@@ -1,0 +1,2 @@
+Lyricify 🎶
+Lyricify is a web application that allows users to quickly search and view song lyrics by entering the artist's name and song title. It’s built with Node.js, Express, and EJS, and uses the Lyrics.ovh API to fetch lyrics.
